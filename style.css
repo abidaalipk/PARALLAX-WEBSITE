@@ -72,3 +72,7 @@ body {
     background-color: #282e34;
     color: #ddd;
   }
+@media(max-width:768px){
+  .textbg{
+    width:100%;
+    font-size:50%;
